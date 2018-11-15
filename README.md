@@ -1,3 +1,5 @@
+Demo: https://youtu.be/Bf5wi0fSlZU
+
 Note: deepjazz has been succeeded by [**songbird.ai**](http://songbird.ai) and is no longer being actively developed. 
 
 ***
